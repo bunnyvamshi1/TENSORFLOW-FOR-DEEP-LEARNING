@@ -1,0 +1,14 @@
+# NN Regression Model
+
+## Overview
+This project demonstrates a Neural Network-based Regression model using TensorFlow/Keras.
+
+## Features
+- Implements a deep learning regression model.
+- Uses a dataset for training (mention dataset if applicable).
+- Evaluates model performance using Mean Squared Error (MSE) & Root Mean Squared Error (RMSE).
+- Supports real-time predictions based on trained models.
+
+
+
+
